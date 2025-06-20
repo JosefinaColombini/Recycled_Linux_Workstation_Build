@@ -39,9 +39,16 @@ Despite using old hardware, the system runs well enough for Linux and security t
 
 ---
 
-## 📸 Screenshots (Coming Soon)
+## 📸 Screenshots
+A little bit of a mess because the components dont really match the PC case but i made it work (i did connect de power cable it's just that i didnt take a pic of it ._.):
+![IMG_3378](https://github.com/user-attachments/assets/5a26f70b-0e71-48c2-91a1-4148452b0c61)
 
-Planning to include photos of the build and Parrot OS setup.
+This is the best (free) RAM i could find - sadly:
+![IMG_24BABE8A-0F13-415B-AAE7-430AAF27C1F4](https://github.com/user-attachments/assets/2401fbd1-4c2e-4087-985c-6463725d2c28)
+
+Lastly, i had too options for the HDD and decided to go for only 1tb (the seagate one) because i dont trust the PS to be strong enough:
+![IMG_3377](https://github.com/user-attachments/assets/bb30fd4f-f547-4681-95d5-15482a1d7e0a)
+
 
 ---
 
