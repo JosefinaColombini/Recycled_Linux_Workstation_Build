@@ -28,7 +28,7 @@ This recycled PC is my gateway to learning by doing — no fancy hardware requir
 
 ## 🐧 Operating System
 
-- **Distro**: [Parrot OS Security Edition](https://www.parrotsec.org/)
+- **Distro**: [Parrot OS Home Edition](https://www.parrotsec.org/)
 - **Purpose**: Learning fundamentals, Linux experimentation, Security research
 
 ---
@@ -46,6 +46,7 @@ This recycled PC is my gateway to learning by doing — no fancy hardware requir
 ## 💡 Notes
 
 Despite using old hardware, the system runs well enough for Linux and security tool experimentation. This is a low-risk environment for learning, breaking things, and rebuilding.
+I'll upload all my homelab projects and hardware upgrades later on...
 
 ---
 
@@ -62,3 +63,4 @@ Lastly, i had too options for the HDD and decided to go for 1tb (the seagate one
 
 
 ---
+
