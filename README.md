@@ -1,6 +1,16 @@
 # 🧰 Recycled Linux Workstation
 
-A salvaged PC turned into a Parrot OS Linux workstation for cybersecurity learning and SOC analysis.
+## 🔐 Why This Project?
+
+This project is my personal starting point to dive deeper into the world of cybersecurity and hands-on tech.
+
+I built this machine not just to reuse old parts, but to gain real experience assembling a PC from scratch — understanding how hardware works, what components are compatible, and how everything fits together.
+
+With Parrot OS installed, my goal is to improve my Linux skills, start learning about offensive security (like penetration testing), and explore how SOC (Security Operations Center) teams monitor and respond to threats.
+
+In the future, I plan to expand this lab by adding network devices like switches and routers to gain hands-on experience with networking, traffic analysis, and more advanced security monitoring.
+
+This recycled PC is my gateway to learning by doing — no fancy hardware required.
 
 ---
 
@@ -19,7 +29,7 @@ A salvaged PC turned into a Parrot OS Linux workstation for cybersecurity learni
 ## 🐧 Operating System
 
 - **Distro**: [Parrot OS Security Edition](https://www.parrotsec.org/)
-- **Purpose**: Security research, Linux experimentation, SOC analysis
+- **Purpose**: Learning fundamentals, Linux experimentation, Security research
 
 ---
 
@@ -50,11 +60,5 @@ This is the best (free) RAM i could find - sadly:
 Lastly, i had too options for the HDD and decided to go for 1tb (the seagate one) because i don't trust the PS to be strong enough:
 ![IMG_3377](https://github.com/user-attachments/assets/bb30fd4f-f547-4681-95d5-15482a1d7e0a)
 
-
----
-
-## 🔐 Why This?
-
-Learning cybersecurity doesn't require expensive gear. This box proves that with some resourcefulness, you can turn nearly anything into a powerful learning tool.
 
 ---
