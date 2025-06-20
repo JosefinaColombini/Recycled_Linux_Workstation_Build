@@ -40,13 +40,14 @@ Despite using old hardware, the system runs well enough for Linux and security t
 ---
 
 ## 📸 Screenshots
-A little bit of a mess because the components dont really match the PC case but i made it work (i did connect de power cable it's just that i didnt take a pic of it ._.):
-![IMG_3378](https://github.com/user-attachments/assets/5a26f70b-0e71-48c2-91a1-4148452b0c61)
+A little bit of a mess because the components don't really match the PC case but i made it work (while trying to keep the PS with enough ventilation):
+![IMG_3383](https://github.com/user-attachments/assets/cbb1e6b2-3450-4d7e-97d7-e2660eebe96c)
 
 This is the best (free) RAM i could find - sadly:
-![IMG_24BABE8A-0F13-415B-AAE7-430AAF27C1F4](https://github.com/user-attachments/assets/2401fbd1-4c2e-4087-985c-6463725d2c28)
+![IMG_3382](https://github.com/user-attachments/assets/7e49d9d9-8d95-42f0-8c2e-325efb8f8363)
 
-Lastly, i had too options for the HDD and decided to go for only 1tb (the seagate one) because i dont trust the PS to be strong enough:
+
+Lastly, i had too options for the HDD and decided to go for 1tb (the seagate one) because i don't trust the PS to be strong enough:
 ![IMG_3377](https://github.com/user-attachments/assets/bb30fd4f-f547-4681-95d5-15482a1d7e0a)
 
 
