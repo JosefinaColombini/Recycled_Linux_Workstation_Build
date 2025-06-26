@@ -64,7 +64,7 @@ While building and setting up this recycled Linux workstation, I encountered sev
 - **Result:** The system booted into the USB without issues and I was able to install Parrot OS successfully.
 
 
-### 2. 🔌 No Operating System After Removing USB
+### 3. 🔌 No Operating System After Removing USB
 
 - **Initial Assumption:** The computer likely didn't install the OS to the internal hard drive and was running in Live mode.
 - **What I Did:**  Powered on the computer and tried running the Live mode again since it was the only option available.  
