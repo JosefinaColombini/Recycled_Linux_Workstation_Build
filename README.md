@@ -21,7 +21,7 @@ This recycled PC is my gateway to learning by doing — no fancy hardware requir
 | **Case**         | Generic mid-tower from an old PC       |
 | **Motherboard**  | H81H3-M4 (LGA 1150, DDR3 support)       |
 | **CPU**          | Intel Core i3-4170 (2 cores, 3.7GHz)    |
-| **RAM**          | 4GB DDR3 1600MHz                        |
+| **RAM**          | 6GB DDR3 1333MHz                        |
 | **Storage**      | 1TB Seagate HDD                         |
 
 ---
@@ -63,9 +63,22 @@ While building and setting up this recycled Linux workstation, I encountered sev
 - **Fix:** I entered the BIOS/UEFI settings and changed the boot mode from **UEFI** to **Legacy**.
 - **Result:** The system booted into the USB without issues and I was able to install Parrot OS successfully.
 
+
+### 2. 🔌 No Operating System After Removing USB
+
+- **Initial Assumption:** The computer likely didn't install the OS to the internal hard drive and was running in Live mode.
+- **What I Did:**  Powered on the computer and tried running the Live mode again since it was the only option available.  
+                   This appeared on the screen: ![IMG_3397](https://github.com/user-attachments/assets/1beeb33a-c50d-420e-9f13-2dc35a50548c)
+
+- **Next Step:** Checked the hardware (faster than rebooting to troubleshoot software issues) and noticed the SATA power cable was poorly connected.
+- **Fixing the Root Cause:** Turned off the system, reconnected everything correctly, rebooted to check if the BIOS recognized the HDD (all good), and proceeded with installing ParrotOS.
+- **Finishing up:** The only last thing left was to properly install ParrotOS and I chose the SwapFile option because I recently learnt about Virtual Memory and was excited about it, also i know 6Gb aren't the greatest thing (fyi: i chose swapfile because it's easier to resize or remove if needed).
+- **Additional Notes:**  I also saw that the documentation recommended 4GB of RAM (though documentation says it works with less), so I added an extra DDR3 RAM stick. It’s 1333Hz, so my system now runs 6GB of RAM at 1333Hz, even though one of the sticks is 1600Hz. Since I’m not doing heavy multitasking, it should work fine.
+
+
 ---
 
-## 📸 Screenshots
+## 📸 Hardware Screenshots
 I know the components don’t exactly match the PC case — it's a bit of a mismatch — but I managed to make everything fit and function properly, while making sure the PSU still had enough ventilation.
 
 ![IMG_3383](https://github.com/user-attachments/assets/cbb1e6b2-3450-4d7e-97d7-e2660eebe96c)
@@ -76,6 +89,11 @@ This is the best (free) RAM i could find - sadly:
 Lastly, i had two options for the HDD and decided to go for 1tb (the seagate one) because i don't trust the PS to be strong enough:
 ![IMG_3377](https://github.com/user-attachments/assets/bb30fd4f-f547-4681-95d5-15482a1d7e0a)
 
+## 📸 Software Screenshots
+Here’s a screenshot of the BIOS main screen, showing the settings I had to adjust for reference:
+
+![IMG_3395](https://github.com/user-attachments/assets/606cd7c1-dfe8-47f7-8ed4-66fe5db73389)
+![IMG_3396](https://github.com/user-attachments/assets/5cc369ed-2f36-47a0-8b29-35ed6cfde360)
 
 ---
 
